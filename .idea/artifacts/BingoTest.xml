@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="BingoTest">
+    <output-path>$PROJECT_DIR$/classes/artifacts/BingoTest</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="com.BingoGenerate.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="BingoGenerate.jar">
+        <element id="module-output" name="BingoGenerate" />
+        <element id="library" level="project" name="JavaFX" />
+      </element>
+    </root>
+  </artifact>
+</component>
